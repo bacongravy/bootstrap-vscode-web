@@ -1,4 +1,8 @@
-# Installation
+# Bootstrap VS Code Web
+
+Sets up a front-end web development environment in Visual Studio Code on a Mac.
+
+Includes: _React, TypeScript, Parcel, ESLint, Prettier, Jest, Enzyme_
 
 ## Install Homebrew
 
@@ -7,7 +11,19 @@
 https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
-## Install the OS dependencies
+## Clone the repository
+
+```sh
+git clone https://github.com/bacongravy/bootstrap-vscode-web
+```
+
+## Enter the workspace
+
+```sh
+cd bootstrap-vscode-web
+```
+
+## Install the global dependencies
 
 ```sh
 brew bundle
