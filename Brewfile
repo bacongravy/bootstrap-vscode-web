@@ -1,0 +1,5 @@
+brew "jq"
+brew "node"
+cask "google-chrome"
+cask "microsoft-edge"
+cask "visual-studio-code"

@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "Orta.vscode-jest",
+    "msjsdiag.debugger-for-edge",
+    "msjsdiag.debugger-for-chrome"
+  ]
+}
