@@ -3,5 +3,8 @@
     "<rootDir>/dist/",
     "<rootDir>/node_modules/"
   ],
-  "setupFilesAfterEnv": ["<rootDir>/.enzyme.js"]
+  "setupFilesAfterEnv": [
+    "<rootDir>/.enzyme.ts",
+    "<rootDir>/node_modules/jest-enzyme/lib/index.js"
+  ]
 }
